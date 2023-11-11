@@ -1,7 +1,7 @@
 
 <h2 align="center">Welcome to my GitHub account</h2>
-<h3 align="center">I'm a self-taught programmer that grinding hard to change my future</h3>
-<p align="center">I mostly use my GitLab accounts to commit and create projects, but I will still remain active on GitHub</p>
+<h3 align="center">As an autodidactic programmer, I am actively working to reshape my professional future.</h3>
+<p align="center">I mostly use my GitLab accounts to code, but I will still remain active on GitHub</p>
 <div align="center">
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=leduc1901&theme=dark&show_icons=true)
