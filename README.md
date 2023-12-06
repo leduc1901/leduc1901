@@ -8,14 +8,13 @@
 
 </div>
 
-## I love writing
+## An engineer frequently engages in writing about his endeavors.
 
 I write almost everyday\
 I write about hobbies like games, movies, music\
 I write code, blogs about technology and programming\
 <br/>
 You can find my blogs and hobby projects from
-- Github: This page
 - Gitlab: https://gitlab.com/letrongduc1999
 - Medium: https://duckylele.medium.com/
 - Dev.to: https://dev.to/leduc1901 ( moderator of React )
