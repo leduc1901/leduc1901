@@ -1,13 +1,8 @@
 
 <h2 align="center">Welcome to my GitHub account</h2>
 <h3 align="center">As an autodidactic programmer, I am actively working to reshape my professional future.</h3>
-<p align="center">I mostly use my GitLab accounts to code, but I will still remain active on GitHub</p>
 
-## An engineer frequently engages in writing about his endeavors.
-
-I write almost everyday\
-I write about hobbies like games, movies, music\
-I write code, blogs about technology and programming\
+Experienced software engineer with a deep interest in modern technologies, multiple industry certifications, and a consistent record of delivering high-impact results in fast-paced, demanding environments.
 <br/>
 You can find my blogs and hobby projects from
 - Leetcode: https://leetcode.com/ducle1999
